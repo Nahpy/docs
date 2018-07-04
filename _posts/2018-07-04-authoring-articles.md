@@ -1,7 +1,7 @@
 ---
 date: 2018-07-04
 title: Authoring Articles for Sayonika Unified Documentation Center
-description: A for-dummies' quickstart guide on adding new articles for SUDC.
+description: A dummies guide on adding new articles for SUDC.
 categories:
   - contributing
 resources:
